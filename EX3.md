@@ -199,4 +199,4 @@ INSERT INTO Salesman1 (salesman_id, name, city, commission) VALUES(5003, 'Lauson
 ### OUTPUT FOR RIGHT JOIN:
 ![RIGHT JOIN](https://github.com/Jeevapriya14/EX-3-SubQueries-Views-and-Joins/assets/121003043/bb3089be-49fd-4c4d-b375-2198191c60af)
 ## RESULT:
-Thus t
+Thus the program executed successfully.
